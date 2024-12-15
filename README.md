@@ -15,7 +15,7 @@ This project predicts sales for various products across different outlets of a r
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/big-mart-sales-prediction.git
+   git clone https://github.com/Sushant2802/Big-Mart-Sales-Prediction.git
    cd big-mart-sales-prediction
    ```
 2. Install the required packages:
@@ -57,4 +57,4 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
 
 ## Contact
-For any inquiries, reach out to [your_email@example.com].
+For any inquiries, reach out to sushantm1210@gmail.com
